@@ -26,8 +26,14 @@ AlgoSchedular is an interactive web application built with Python and Streamlit 
    ```
 3. Install the required dependencies.
 
+
 ## Usage
 Run the Streamlit application:
    ```bash
    streamlit run app.py
    ```
+## Image 1(inputs)
+![image_1](https://github.com/SRP4214/Algo-Scheduler/blob/main/img1.png)
+
+## Image 2(output)
+![image_2](https://github.com/SRP4214/Algo-Scheduler/blob/main/img2.png)
